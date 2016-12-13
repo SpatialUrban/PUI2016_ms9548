@@ -4,7 +4,7 @@
 #### FROM nycasthmasdismissals
 #### GROUP BY zipcodes
 
-#### This query summed the record counts by zipcode.  A NYC zipcodes shapfile was then downloaded, and these two files were merged via GeoPandas.  
+#### This query summed the record counts by zipcode.  A NYC zipcodes shapfile was then downloaded, and these two files were merged via GeoPandas.  The data was then fit into a 3D numpy array and plotted.
 
 
 #### The remainder of the assignment was not completed, as this was not required for the extra credit.
